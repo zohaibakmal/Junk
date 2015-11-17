@@ -1,0 +1,50 @@
+{
+"authUrl": "http://istgdrive.vzvisp.com:22790",
+"config": [
+{
+"snippetID": "CIAACCABrAE",
+"content": [
+{
+"contentTitle": "mickey2.mp4",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/mickey2.mp4"
+},
+{
+"contentTitle": "mickey.mp4",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/mickey.mp4"
+},
+{
+"contentTitle": "sports-1-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-1-480-640.png"
+},
+{
+"contentTitle": "sports-2-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-2-480-640.png"
+},
+{
+"contentTitle": "sports-3-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-3-480-640.png"
+},
+{
+"contentTitle": "sports-4-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-4-480-640.png"
+},
+{
+"contentTitle": "sports-5-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-5-480-640.png"
+},
+{
+"contentTitle": "sports-6-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-6-480-640.png"
+},
+{
+"contentTitle": "sports-7-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-7-480-640.png"
+},
+{
+"contentTitle": "sports-8-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-8-480-640.png"
+}
+]
+}
+]
+}

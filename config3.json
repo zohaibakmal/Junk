@@ -1,0 +1,22 @@
+{
+"authUrl": "http://istgdrive.vzvisp.com:22790",
+"config": [
+{
+"snippetID": "1CIAADQACkgE",
+"content": [
+{
+"contentTitle": "mickey2.mp4",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/mickey2.mp4"
+},
+{
+"contentTitle": "mickey.mp4",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/mickey.mp4"
+},
+{
+"contentTitle": "sports-8-480-640.png",
+"contentLocation": "http://10.2.9.42/vzamsdemo/fb/sports-8-480-640.png"
+}
+]
+}
+]
+}
